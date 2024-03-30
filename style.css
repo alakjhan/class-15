@@ -242,3 +242,9 @@ img {
     border-radius: 50%;
 
 }
+.footer{text-align: center;
+    color: white;
+    height: 20px;
+    width: auto;
+    background-color: rgb(5, 5, 66);
+}
